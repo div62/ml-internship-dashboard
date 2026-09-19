@@ -6,7 +6,7 @@ from sklearn.datasets import load_iris
 loaded_model = load_model()
 print("Saved model loaded successfully!")
 
-iris = load_iris()
+iris = load_iris()  
 
 features = [5.1, 3.5, 1.4, 0.2]
 
